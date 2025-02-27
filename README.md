@@ -69,4 +69,5 @@ Key technical challenges:
 - Bi-weekly progress presentations
 - Final showcase demo + documentation handoff
 
-📌 *Note: Flexible adaptation for different majors - CS students focus on algorithm development, ME students emphasize CAD validation, Math students handle geometric optimization.*
+## Workload:
+### week1: Collect scientific research literature and open source code libraries about this project, summarize and analyze their differences, and organize them into documents
